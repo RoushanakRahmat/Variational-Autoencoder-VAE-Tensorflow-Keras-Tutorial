@@ -4,4 +4,4 @@ A variational autoencoder (VAE) is a type of generative models which is rooted i
 VAE provides a probabilistic manner to describe an observation in latent space with a probability distribution (μ, σ) which instead of just building an encoder that outputs a single value to describe each latent state attribute, the encoder in VAE is formulated to describe a probability distribution for each latent attribute.
 
 More details about this tutorial can be found on https://medium.com/@roushanakrahmat/variational-autoencoder-vae-tensorflow-keras-tutorial-e96d8fa87664
-![image](https://user-images.githubusercontent.com/19305964/208354270-6004d631-108b-4d75-b33d-65f3ea91c16f.png)
+![image](https://user-images.githubusercontent.com/19305964/208354373-fc0559b5-59f8-4ee6-947f-ff3987672e11.png)
